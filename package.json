@@ -1,0 +1,15 @@
+{
+  "name": "qa-port",
+  "version": "1.0.0",
+  "description": "projeto para portifolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "sher dias",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
