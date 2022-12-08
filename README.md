@@ -17,7 +17,7 @@ JavaScript
 🏁 Como Executar o Projeto
 
 # Clone este repositório
-$ git clone https://github.com/leonardovilela100/buger-eats-cypress.git
+$ git clone https://github.com/Shersirotzky/QA-bugerEats/tree/main
 A execução pode ser feita através da linha de comando ou do próprio framework.
 
 Através da linha de comando:
