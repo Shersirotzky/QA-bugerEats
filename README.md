@@ -17,7 +17,7 @@ JavaScript
 🏁 Como Executar o Projeto
 
 # Clone este repositório
-$ git clone git@github.com:Shersirotzky/QA-bugerEats.git
+$ git clone Shersirotzky/QA-bugerEats.git
 A execução pode ser feita através da linha de comando ou do próprio framework.
 
 Através da linha de comando:
